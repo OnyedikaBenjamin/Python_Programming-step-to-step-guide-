@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf11978b-8356-43c1-9e76-871ccf33ca71" name="Changes" comment="Python">
-      <change beforePath="$PROJECT_DIR$/.idea/Python (A Step to Step guide).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python (A Step to Step guide).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/GuessNumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/GuessNumber.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +200,9 @@
       <workItem from="1661863290291" duration="664000" />
       <workItem from="1661864833062" duration="1707000" />
       <workItem from="1661867081440" duration="913000" />
-      <workItem from="1661868174276" duration="364000" />
+      <workItem from="1661868174276" duration="1942000" />
+      <workItem from="1661870980687" duration="232000" />
+      <workItem from="1661871239135" duration="2111000" />
     </task>
     <task id="LOCAL-00001" summary="Python">
       <created>1661867261030</created>
@@ -262,6 +264,6 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area__1_.coverage" NAME="compute_area (1) Coverage Results" MODIFIED="1661781015969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PythonBuiltInFunctions.coverage" NAME="PythonBuiltInFunctions Coverage Results" MODIFIED="1661802939015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$display_pattern.coverage" NAME="display_pattern Coverage Results" MODIFIED="1661758009583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_To_Python_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GuessNumber.coverage" NAME="GuessNumber Coverage Results" MODIFIED="1661867910437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GuessNumber.coverage" NAME="GuessNumber Coverage Results" MODIFIED="1661871054981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
   </component>
 </project>
