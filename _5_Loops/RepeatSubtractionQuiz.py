@@ -1,8 +1,11 @@
 import random
+import time
 
 count = 0
 correctCount = 0
 answer = 0
+totalTime = 0
+startTime = time.time()
 while count < 5:
     number1 = random.randint(0, 100)
     number2 = random.randint(0, 100)
@@ -21,7 +24,9 @@ while count < 5:
     else:
         print("You are wrong!")
     count = count + 1
-
+endTime = time.time()
+totalTime = endTime - startTime
 print("You got", correctCount, "Questions correct")
+print("You used a total of", int(totalTime), "seconds")
 
 
