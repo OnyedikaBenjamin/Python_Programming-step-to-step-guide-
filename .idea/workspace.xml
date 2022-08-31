@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf11978b-8356-43c1-9e76-871ccf33ca71" name="Changes" comment="Python" />
+    <list default="true" id="bf11978b-8356-43c1-9e76-871ccf33ca71" name="Changes" comment="Python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_4_Selections/AdditionQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/_4_Selections/AdditionQuiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,21 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/Python (A Step to Step guide)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "4e3c05",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/Python (A Step to Step guide)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_2_Elementary_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GuessNumber">
+  <component name="RunManager" selected="Python.RepeatSubtractionQuiz">
     <configuration name="Lottery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +205,8 @@
       <workItem from="1661868174276" duration="1942000" />
       <workItem from="1661870980687" duration="232000" />
       <workItem from="1661871239135" duration="5895000" />
-      <workItem from="1661925377514" duration="1758000" />
+      <workItem from="1661925377514" duration="7597000" />
+      <workItem from="1661938838736" duration="887000" />
     </task>
     <task id="LOCAL-00001" summary="Python">
       <created>1661867261030</created>
@@ -223,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661926163611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python">
+      <created>1661927334549</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661927334549</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +285,7 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Display_Time.coverage" NAME="Display_Time Coverage Results" MODIFIED="1661784916740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$i.coverage" NAME="i Coverage Results" MODIFIED="1661854880414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_expression.coverage" NAME="compute_expression Coverage Results" MODIFIED="1661749917208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_to_python_programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RepeatSubtractionQuiz.coverage" NAME="RepeatSubtractionQuiz Coverage Results" MODIFIED="1661887152357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RepeatSubtractionQuiz.coverage" NAME="RepeatSubtractionQuiz Coverage Results" MODIFIED="1661939683810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area__1_.coverage" NAME="compute_area (1) Coverage Results" MODIFIED="1661781015969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PythonBuiltInFunctions.coverage" NAME="PythonBuiltInFunctions Coverage Results" MODIFIED="1661802939015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$display_pattern.coverage" NAME="display_pattern Coverage Results" MODIFIED="1661758009583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_To_Python_Programming" />

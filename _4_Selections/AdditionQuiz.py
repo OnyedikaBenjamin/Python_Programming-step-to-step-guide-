@@ -1,6 +1,7 @@
 # Write a program to help a first-grader practice addition. The program randomly generates two single-digit integers,
 # number1 and number2, displays to the student a question such as What is 1 + 7, After the student types the answer,
 # the program displays a message to indicate whether it is true or false.
+
 import random
 from random import randint
 
