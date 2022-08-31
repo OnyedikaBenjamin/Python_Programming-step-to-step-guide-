@@ -16,11 +16,11 @@ while count < 5:
 
     if userInput == answer:
         print("You are correct!!!")
-        correctCount = correctCount + 1
+        correctCount += 1
 
     else:
         print("You are wrong!")
-    count = count + 1
+    count += 1
 
 print("You got", correctCount, "Questions correct")
 
