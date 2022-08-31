@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf11978b-8356-43c1-9e76-871ccf33ca71" name="Changes" comment="Python">
-      <change beforePath="$PROJECT_DIR$/.idea/Python (A Step to Step guide).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python (A Step to Step guide).iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" afterDir="false" />
-    </list>
+    <list default="true" id="bf11978b-8356-43c1-9e76-871ccf33ca71" name="Changes" comment="Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +200,7 @@
       <workItem from="1661868174276" duration="1942000" />
       <workItem from="1661870980687" duration="232000" />
       <workItem from="1661871239135" duration="5895000" />
-      <workItem from="1661925377514" duration="366000" />
+      <workItem from="1661925377514" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="Python">
       <created>1661867261030</created>
@@ -214,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661867261030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python">
+      <created>1661925758743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661925758743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python">
+      <created>1661926163611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661926163611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
