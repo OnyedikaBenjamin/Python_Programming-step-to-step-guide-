@@ -58,9 +58,3 @@ height = 6.7
 print(type(name))       # String
 print(type(noOfBalls))  # Int
 print(type(height))     # Float
-
-
-
-
-
-
