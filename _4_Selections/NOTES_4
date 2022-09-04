@@ -1,0 +1,8 @@
+1. A Boolean type variable can store a True or False value.
+2. The relational operators (<, <=, ==, !=, >, >=), which work with numbers and characters, yield a Boolean value.
+3. The Boolean operators and, or, and not operate with Boolean values and variables.
+
+4. When evaluating p1 and p2, Python first evaluates p1 and then evaluates p2 if p1 is True; if p1 is False,
+   it does not evaluate p2. When evaluating p1 or p2, PythoN first evaluates p1 and then evaluates p2 if p1 is False;
+   if p1 is True, it does not evaluate p2. Therefore, and is referred to as the conditional or short-circuit AND
+   operator, and or is referred to as the conditional or short-circuit OR operator.

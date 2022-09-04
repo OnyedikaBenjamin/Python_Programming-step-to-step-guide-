@@ -1,0 +1,14 @@
+1. There are two types of repetition statements: the while loop and the for loop.
+2. The part of the loop that contains the statements to be repeated is called the loop body.
+3. A one-time execution of a loop body is referred to as an iteration of the loop.
+4. An infinite loop is a loop statement that executes infinitely.
+5. In designing loops, you need to consider both the loop-control structure and the loop body.
+
+6. The while loop checks the loop-continuation-condition first. If the condition is true, the loop body is executed;
+   otherwise, the loop terminates.
+
+7. A sentinel value is a special value that signifies the end of the input.
+8. The for loop is a count-controlled loop and is used to execute a loop body a predictable number of times.
+9. Two keywords, break and continue, can be used in a loop.
+10. The break keyword immediately ends the innermost loop, which contains the break.
+11. The continue keyword ends only the current iteration.

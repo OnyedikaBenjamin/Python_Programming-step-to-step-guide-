@@ -1,0 +1,49 @@
+1. Making programs modular and reusable is one of the central goals in software engineering. Functions can help
+   to achieve this goal.
+
+2. A function header begins with the def keyword followed by function’s name and
+   parameters, and ends with a colon.
+
+3. Parameters are optional; that is, a function does not have to contain any parameters.
+
+4. A function is called a void or None function if it does not return a value.
+
+5. A return statement can also be used in a void function for terminating the function
+   and returning to the function’s caller. This is useful occasionally for circumventing
+   the normal flow of control in a function.
+
+6. The arguments that are passed to a function should have the same number, type, and
+   order as the parameters in the function header.
+
+7. When a program calls a function, program control is transferred to the called function. A called function returns
+   control to the caller when its return statement is executed or when the last statement in the function is executed.
+
+8. A value-returning function can also be invoked as a statement in Python. In this case,
+   the function’s return value is ignored.
+
+9. A function’s arguments can be passed as positional arguments or keyword arguments.
+
+10. When you invoke a function with a parameter, the reference value of the argument is passed to the parameter.
+    This is referred to as pass-by-value in programming terminology.
+
+11. A variable created in a function is called a local variable. The scope of a local variable starts from its creation
+    and exists until the function returns. A variable must be created before it is used.
+
+12. Global variables are created outside all functions and are accessible to all functions in their scope.
+
+13. Python allows you to define functions with default argument values. The default values are passed to the parameters
+    when a function is invoked without the arguments.
+
+14. The Python return statement can return multiple values.
+
+15. Function abstraction is achieved by separating the use of a function from its implementation. The client can use a
+    function without knowing how it is implemented. The details of the implementation are encapsulated in the function and
+    hidden from the client that invokes the function. This is known as information hiding or encapsulation.
+
+16. Function abstraction modularize programs in a neat, hierarchical manner. Programs
+    written as collections of concise functions are easier to write, debug, maintain, and modify than would otherwise
+     be the case. This writing style also promotes function reusability.
+
+17. When implementing a large program, use the top-down and/or bottom-up coding approach. Do not write the entire
+    program at once. This approach may seem to take more time for coding
+    (because you are repeatedly running the program), but it actually saves time and makes debugging easier.

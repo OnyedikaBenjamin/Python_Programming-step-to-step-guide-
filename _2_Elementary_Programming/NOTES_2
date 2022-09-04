@@ -1,0 +1,32 @@
+1. You can get input using the input function and convert a string into a numerical value using the eval function.
+
+2. Identifiers are the names used for elements in a program.
+
+3. An identifier is a sequence of characters of any length that consists of letters, digits, underscores (_), and
+   asterisk signs (*). An identifier must start with a  letter or an underscore; it cannot start with a digit.
+   An identifier cannot be a keyword.
+
+4. Variables are used to  store data in a program.
+5. The equal sign (=) is used as the assignment operator.
+6. A variable must be assigned a value before it can be used.
+
+7. There are two types of numeric data in Python: integers and real numbers. Integer types (int for short) are for
+   whole numbers, and real types (also called float) are for numbers with a decimal  point.
+
+8. Python provides assignment operators that perform numeric operations: + (addition), – (subtraction),
+   * (multiplication), / (division), // (integer division), % (remainder), and ** (exponent).
+
+9. The numeric operators in a Python expression are applied the same way as in an arithmetic expression.
+
+10. Python provides augmented  assignment operators: += (addition assignment), –= (subtraction assignment),
+    *= (multiplication assignment), /= (float division assignment), //= (integer division assignment), and
+    %= (remainder assignment). These operators combine the +, -, *, /, //, and % operators and the assignment operator
+    into one augmented operators.
+
+11. When evaluating an expression with values of an int type and a float type, Python automatically converts the
+    int value to a float type value.
+
+12. You can convert a float to an int using the int(value) function.
+13. System analysis seeks to analyze the data flow and to identify the system’s input and output.
+14. System design is the stage when programmers develop a process for obtaining the output from the input.
+15. The essence of system analysis and design is input, process, and output. This is called IPO

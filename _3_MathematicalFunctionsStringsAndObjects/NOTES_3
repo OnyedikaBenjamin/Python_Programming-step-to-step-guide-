@@ -1,0 +1,15 @@
+1. Python provides the mathematical functions abs, max, min, pow, and round in the interpreter and the functions fabs,
+   ceil, floor, exp, log, sqrt, sin, asin, cos, acos, tan, degrees, and radians in the math module.
+
+2. A string is a sequence of characters. String values can be enclosed in matching single quotes (') or
+   double quotes ("). Python does not have a data type for characters; a single-character string represents a character.
+
+3. An escape sequence is a special syntax that begins with the character \ followed by a letter or a combination of
+ digits to represent special characters, such as \', \", \t, and \n.
+
+4. The characters ' ', \t, \f, \r, and \n are known as the whitespace characters.
+
+5. All data including numbers and strings are objects in Python. You can invoke methods to perform operations
+   on the objects.
+
+6. You can use the format function to format a number or a string and return the result as a string.

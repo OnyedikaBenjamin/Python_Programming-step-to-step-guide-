@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b9ddf0-0cd6-4997-bc5c-295d886f5c46" name="Changes" comment="Python">
-      <change afterPath="$PROJECT_DIR$/_5_Loops/GreatestCommonDivisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_2_Elementary_Programming/NOTES_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects/NOTES_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4_Selections/NOTES_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_Loops/BreakAndContinue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_Loops/FutureTuition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_5_Loops/NOTES_5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/DefaultArgumentDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/DefiningFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/FunctionAbstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/GreatestCommonDivisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/IncrementAndDecrement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/MultipleReturnValueDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/NOTES_6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/PrintGradeFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/RandomCharacter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/ReturnGradeFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/TestGreatestCommonDIvisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/TestMaximum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_6_Functions/TestRandomCharacter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Loops/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/MultiplicationTable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +71,8 @@
       <recent name="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_2_Elementary_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MultiplicationTable">
-    <configuration name="ComparisonOperators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TestRandomCharacter">
+    <configuration name="DefaultArgumentDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +80,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_4_Selections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_4_Selections/ComparisonOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/DefaultArgumentDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ControllingLoopWithUserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MultipleReturnValueDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_5_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_5_Loops/ControllingLoopWithUserInput.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/MultipleReturnValueDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GreatestCommonDivisor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RandomCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_5_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_5_Loops/GreatestCommonDivisor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/RandomCharacter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultiplicationTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGreatestCommonDIvisor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_5_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_5_Loops/MultiplicationTable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/TestGreatestCommonDIvisor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SentinelValue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRandomCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_5_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_5_Loops/SentinelValue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/TestRandomCharacter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +207,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.GuessNumber" />
-      <item itemvalue="Python.ComparisonOperators" />
-      <item itemvalue="Python.GreatestCommonDivisor" />
-      <item itemvalue="Python.MultiplicationTable" />
-      <item itemvalue="Python.ControllingLoopWithUserInput" />
-      <item itemvalue="Python.SentinelValue" />
+      <item itemvalue="Python.DefaultArgumentDemo" />
+      <item itemvalue="Python.MultipleReturnValueDemo" />
+      <item itemvalue="Python.RandomCharacter" />
+      <item itemvalue="Python.TestGreatestCommonDIvisor" />
+      <item itemvalue="Python.TestRandomCharacter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MultiplicationTable" />
-        <item itemvalue="Python.GreatestCommonDivisor" />
-        <item itemvalue="Python.SentinelValue" />
-        <item itemvalue="Python.ControllingLoopWithUserInput" />
-        <item itemvalue="Python.ComparisonOperators" />
+        <item itemvalue="Python.TestRandomCharacter" />
+        <item itemvalue="Python.RandomCharacter" />
+        <item itemvalue="Python.MultipleReturnValueDemo" />
+        <item itemvalue="Python.DefaultArgumentDemo" />
+        <item itemvalue="Python.TestGreatestCommonDIvisor" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +251,7 @@
       <workItem from="1661925377514" duration="7597000" />
       <workItem from="1661938838736" duration="887000" />
       <workItem from="1662015911379" duration="24105000" />
-      <workItem from="1662141069444" duration="4016000" />
+      <workItem from="1662141069444" duration="37742000" />
     </task>
     <task id="LOCAL-00001" summary="Python">
       <created>1661867261030</created>
@@ -299,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662129427924</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Python">
+      <created>1662182180548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662182180548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,39 +364,51 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$SubtractionQuiz.coverage" NAME="SubtractionQuiz Coverage Results" MODIFIED="1661855648931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Type_Conversion.coverage" NAME="Type_Conversion Coverage Results" MODIFIED="1661786746456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ComputeDistance.coverage" NAME="ComputeDistance Coverage Results" MODIFIED="1661796546154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area.coverage" NAME="compute_area Coverage Results" MODIFIED="1661763038883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ElementaryProgrammingContinuation" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ComputeLoan.coverage" NAME="ComputeLoan Coverage Results" MODIFIED="1661794350557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ComparisonOperators.coverage" NAME="ComparisonOperators Coverage Results" MODIFIED="1662116104473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$DefiningFunctions.coverage" NAME="DefiningFunctions Coverage Results" MODIFIED="1662231416445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Lottery.coverage" NAME="Lottery Coverage Results" MODIFIED="1661840618886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MultiplicationTable.coverage" NAME="MultiplicationTable Coverage Results" MODIFIED="1662181747496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Operators_And_Operands.coverage" NAME="Operators_And_Operands Coverage Results" MODIFIED="1661782853539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$DefaultArgumentDemo.coverage" NAME="DefaultArgumentDemo Coverage Results" MODIFIED="1662267553647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ShowCurrentTime.coverage" NAME="ShowCurrentTime Coverage Results" MODIFIED="1661790589034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ChineseZodiac.coverage" NAME="ChineseZodiac Coverage Results" MODIFIED="1661831259094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ConvertCelsius_ToFahrenheit.coverage" NAME="ConvertCelsius ToFahrenheit Coverage Results" MODIFIED="1661796558197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$BreakAndContinue.coverage" NAME="BreakAndContinue Coverage Results" MODIFIED="1662199399214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$SalesTax__1_.coverage" NAME="SalesTax (1) Coverage Results" MODIFIED="1661798311043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Determine_Time.coverage" NAME="Determine_Time Coverage Results" MODIFIED="1661784934914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ControllingLoopWithUserInput.coverage" NAME="ControllingLoopWithUserInput Coverage Results" MODIFIED="1662116447615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RandomNumbers.coverage" NAME="AdditionQuiz Coverage Results" MODIFIED="1661811093358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Radius.coverage" NAME="Radius Coverage Results" MODIFIED="1661807968930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$LeapYear.coverage" NAME="LeapYear Coverage Results" MODIFIED="1661837798915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Sales_Tax.coverage" NAME="SalesTax Coverage Results" MODIFIED="1661787930451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestBooleanOperators.coverage" NAME="TestBooleanOperators Coverage Results" MODIFIED="1661837530493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$BMI.coverage" NAME="BMI Coverage Results" MODIFIED="1661835652599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestMaximum.coverage" NAME="TestMaximum Coverage Results" MODIFIED="1662237448826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MultipleReturnValueDemo.coverage" NAME="MultipleReturnValueDemo Coverage Results" MODIFIED="1662268045151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestGreatestCommonDIvisor.coverage" NAME="TestGreatestCommonDIvisor Coverage Results" MODIFIED="1662247397983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$WhileLoop.coverage" NAME="WhileAndForLoop Coverage Results" MODIFIED="1662104701362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MethodsInPython.coverage" NAME="MethodsInPython Coverage Results" MODIFIED="1661807404392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$IncrementAndDecrement.coverage" NAME="IncrementAndDecrement Coverage Results" MODIFIED="1662246090077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_expression.coverage" NAME="compute_expression Coverage Results" MODIFIED="1661749917208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_to_python_programming" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RepeatSubtractionQuiz.coverage" NAME="RepeatSubtractionQuiz Coverage Results" MODIFIED="1661953325708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PythonBuiltInFunctions.coverage" NAME="PythonBuiltInFunctions Coverage Results" MODIFIED="1661802939015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GuessNumber.coverage" NAME="GuessNumber Coverage Results" MODIFIED="1662117252677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area.coverage" NAME="compute_area Coverage Results" MODIFIED="1661763038883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ElementaryProgrammingContinuation" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MultiplicationTable.coverage" NAME="MultiplicationTable Coverage Results" MODIFIED="1662181747496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Operators_And_Operands.coverage" NAME="Operators_And_Operands Coverage Results" MODIFIED="1661782853539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PrintGradeFunction.coverage" NAME="PrintGradeFunction Coverage Results" MODIFIED="1662233897224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ConvertCelsius_ToFahrenheit.coverage" NAME="ConvertCelsius ToFahrenheit Coverage Results" MODIFIED="1661796558197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestRandomCharacter.coverage" NAME="TestRandomCharacter Coverage Results" MODIFIED="1662270817661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$LeapYear.coverage" NAME="LeapYear Coverage Results" MODIFIED="1661837798915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RandomCharacter.coverage" NAME="RandomCharacter Coverage Results" MODIFIED="1662269874363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestBooleanOperators.coverage" NAME="TestBooleanOperators Coverage Results" MODIFIED="1661837530493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ReturnGradeFunction.coverage" NAME="ReturnGradeFunction Coverage Results" MODIFIED="1662244141353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$FutureTuition.coverage" NAME="FutureTuition Coverage Results" MODIFIED="1662196643455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$BMI.coverage" NAME="BMI Coverage Results" MODIFIED="1661835652599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$my_first_python_program.coverage" NAME="my_first_python_program Coverage Results" MODIFIED="1661748521563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_to_python_programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$swaping_values_of_variables.coverage" NAME="swaping_values_of_variables Coverage Results" MODIFIED="1661778250097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MethodsInPython.coverage" NAME="MethodsInPython Coverage Results" MODIFIED="1661807404392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_average.coverage" NAME="compute_average Coverage Results" MODIFIED="1661778435296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ElementaryProgrammingContinuation" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GreatestCommonDivisor.coverage" NAME="GreatestCommonDivisor Coverage Results" MODIFIED="1662158963216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GreatestCommonDivisor.coverage" NAME="GreatestCommonDivisor Coverage Results" MODIFIED="1662247393202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_average__1_.coverage" NAME="compute_average (1) Coverage Results" MODIFIED="1661781020608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$SentinelValue.coverage" NAME="SentinelValue Coverage Results" MODIFIED="1662126531021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Display_Time.coverage" NAME="Display_Time Coverage Results" MODIFIED="1661784916740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$i.coverage" NAME="i Coverage Results" MODIFIED="1661854880414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_expression.coverage" NAME="compute_expression Coverage Results" MODIFIED="1661749917208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_to_python_programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RepeatSubtractionQuiz.coverage" NAME="RepeatSubtractionQuiz Coverage Results" MODIFIED="1661953325708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area__1_.coverage" NAME="compute_area (1) Coverage Results" MODIFIED="1661781015969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PythonBuiltInFunctions.coverage" NAME="PythonBuiltInFunctions Coverage Results" MODIFIED="1661802939015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$display_pattern.coverage" NAME="display_pattern Coverage Results" MODIFIED="1661758009583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_To_Python_Programming" />
-    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$GuessNumber.coverage" NAME="GuessNumber Coverage Results" MODIFIED="1662117252677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
   </component>
 </project>
