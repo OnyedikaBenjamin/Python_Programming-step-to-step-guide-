@@ -5,8 +5,8 @@ import RandomCharacter
 numberOfLettersToBeGenerated = 100
 lettersToBePrintedPerLine = 20
 
-for i in range(numberOfLettersToBeGenerated):
-    print(RandomCharacter.generateRandomLowerCaseLetter(), end="")
+for i in range(0, numberOfLettersToBeGenerated, 1):
+    print(RandomCharacter.generateRandomLowerCaseLetter(), end=" ")
     if (i + 1) % lettersToBePrintedPerLine == 0:                    # If it prints up to 10
         print()                                                     # Jump to next line
 

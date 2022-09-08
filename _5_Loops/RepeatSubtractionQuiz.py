@@ -28,5 +28,3 @@ endTime = time.time()
 totalTime = endTime - startTime
 print("You got", correctCount, "Questions correct")
 print("You used a total of", int(totalTime), "seconds")
-
-

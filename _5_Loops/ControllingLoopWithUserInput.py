@@ -2,9 +2,9 @@ import random
 import time
 
 answer = 0
+continuationCondition = "Y"
 
-continuation = "Y"
-while continuation == "Y":
+while continuationCondition == "Y":
 
     number1 = random.randint(0, 100)
     number2 = random.randint(0, 100)
@@ -21,6 +21,4 @@ while continuation == "Y":
     else:
         print("You are wrong!")
 
-    continuation = input("Enter Y to continue or N to quit : ").upper()
-
-
+    continuationCondition = input("Enter Y to continue or N to quit : ").upper()

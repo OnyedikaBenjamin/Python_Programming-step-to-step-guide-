@@ -39,9 +39,9 @@ print("The area is", radius * radius * math.pi, end=' ')
 print("and the perimeter is", 2 * radius)
 
 # The str function can be used to convert a number into a string. For example,
-x = str(3.4)       # Convert a float to a string
+x = str(3.4)  # Convert a float to a string
 print(x)
-y = str(3)        # Convert an integer to a string
+y = str(3)  # Convert an integer to a string
 print(y)
 
 #  The + operator can be used to concatenate two strings. For example,
@@ -55,6 +55,6 @@ print("Chapter " + str(chapterNumber))
 noOfBalls = 6
 name = "Ben"
 height = 6.7
-print(type(name))       # String
+print(type(name))        # String
 print(type(noOfBalls))  # Int
-print(type(height))     # Float
+print(type(height))    # Float
