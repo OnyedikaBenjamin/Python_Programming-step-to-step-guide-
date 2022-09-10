@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b9ddf0-0cd6-4997-bc5c-295d886f5c46" name="Changes" comment="Python">
-      <change afterPath="$PROJECT_DIR$/My_Python_Exercises/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects/Check_A_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7_ObjectsAndClasses/TestStudent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_Python_Exercises/Check_A_Number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_Python_Exercises/FinancialApplicationCompoundValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/_2_Elementary_Programming/MultipleAssignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_Python_Exercises/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_ObjectsAndClasses/Circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects/PythonBuiltInFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3_MathematicalFunctionsStringsAndObjects/PythonBuiltInFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_4_Selections/AdditionQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/_4_Selections/AdditionQuiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Loops/ControllingLoopWithUserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/ControllingLoopWithUserInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Loops/MultiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/MultiplicationTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/_5_Loops/RepeatSubtractionQuiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Functions/DefaultArgumentDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Functions/DefaultArgumentDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Functions/GreatestCommonDivisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Functions/GreatestCommonDivisor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Functions/TestMaximum.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Functions/TestMaximum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_6_Functions/TestRandomCharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/_6_Functions/TestRandomCharacter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Python_Exercises/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_ObjectsAndClasses/Student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_7_ObjectsAndClasses/Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_ObjectsAndClasses/Circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_7_ObjectsAndClasses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/_7_ObjectsAndClasses/TestCircle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,33 +53,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_7_ObjectsAndClasses" />
       <recent name="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_3_MathematicalFunctionsStringsAndObjects" />
       <recent name="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_2_Elementary_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Circle">
-    <configuration name="AdditionQuiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python (A Step to Step guide)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_4_Selections" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_4_Selections/AdditionQuiz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Test_Television">
     <configuration name="Circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Student (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +94,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/My_Python_Exercises/Student.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_7_ObjectsAndClasses\Student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +116,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\My_Python_Exercises\Student.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_7_ObjectsAndClasses\Student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRandomCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python (A Step to Step guide)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +133,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_6_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_7_ObjectsAndClasses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_6_Functions/TestRandomCharacter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_7_ObjectsAndClasses/TestCircle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestStudent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python (A Step to Step guide)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_7_ObjectsAndClasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_7_ObjectsAndClasses/TestStudent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Television" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python (A Step to Step guide)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_7_ObjectsAndClasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Python (A Step to Step guide)\_7_ObjectsAndClasses\Test_Television.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,19 +216,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.GuessNumber" />
-      <item itemvalue="Python.AdditionQuiz" />
+      <item itemvalue="Python.Test_Television" />
       <item itemvalue="Python.Circle" />
       <item itemvalue="Python.Student" />
-      <item itemvalue="Python.Student (1)" />
-      <item itemvalue="Python.TestRandomCharacter" />
+      <item itemvalue="Python.TestCircle" />
+      <item itemvalue="Python.TestStudent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test_Television" />
+        <item itemvalue="Python.TestStudent" />
+        <item itemvalue="Python.TestCircle" />
         <item itemvalue="Python.Circle" />
-        <item itemvalue="Python.Student (1)" />
         <item itemvalue="Python.Student" />
-        <item itemvalue="Python.TestRandomCharacter" />
-        <item itemvalue="Python.AdditionQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +264,11 @@
       <workItem from="1662295075033" duration="4501000" />
       <workItem from="1662350693290" duration="11263000" />
       <workItem from="1662480296039" duration="1304000" />
-      <workItem from="1662507180867" duration="22022000" />
+      <workItem from="1662507180867" duration="29702000" />
+      <workItem from="1662708091241" duration="7826000" />
+      <workItem from="1662718907092" duration="1845000" />
+      <workItem from="1662720781588" duration="3515000" />
+      <workItem from="1662778242503" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="Python">
       <created>1661867261030</created>
@@ -344,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662508411341</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Python">
+      <created>1662648693351</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662648693351</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,6 +425,7 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Sales_Tax.coverage" NAME="SalesTax Coverage Results" MODIFIED="1661787930451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestMaximum.coverage" NAME="TestMaximum Coverage Results" MODIFIED="1662237448826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$MultipleReturnValueDemo.coverage" NAME="MultipleReturnValueDemo Coverage Results" MODIFIED="1662268045151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestStudent.coverage" NAME="TestStudent Coverage Results" MODIFIED="1662693551507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_7_ObjectsAndClasses" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Circle.coverage" NAME="Circle Coverage Results" MODIFIED="1662648533214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_7_ObjectsAndClasses" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestGreatestCommonDIvisor.coverage" NAME="TestGreatestCommonDIvisor Coverage Results" MODIFIED="1662247397983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$WhileLoop.coverage" NAME="WhileAndForLoop Coverage Results" MODIFIED="1662104701362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
@@ -419,6 +444,7 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$PrintGradeFunction.coverage" NAME="PrintGradeFunction Coverage Results" MODIFIED="1662233897224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$ConvertCelsius_ToFahrenheit.coverage" NAME="ConvertCelsius ToFahrenheit Coverage Results" MODIFIED="1661796558197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestRandomCharacter.coverage" NAME="TestRandomCharacter Coverage Results" MODIFIED="1662514078286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$TestCircle.coverage" NAME="TestCircle Coverage Results" MODIFIED="1662649264071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_7_ObjectsAndClasses" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$LeapYear.coverage" NAME="LeapYear Coverage Results" MODIFIED="1661837798915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_4_Selections" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$RandomCharacter.coverage" NAME="RandomCharacter Coverage Results" MODIFIED="1662269874363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_6_Functions" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Student__1_.coverage" NAME="Student (1) Coverage Results" MODIFIED="1662605293564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/My_Python_Exercises" />
@@ -434,6 +460,7 @@
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$SentinelValue.coverage" NAME="SentinelValue Coverage Results" MODIFIED="1662126531021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Display_Time.coverage" NAME="Display_Time Coverage Results" MODIFIED="1661784916740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$i.coverage" NAME="i Coverage Results" MODIFIED="1661854880414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_5_Loops" />
+    <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$Test_Tv.coverage" NAME="Test_Tv Coverage Results" MODIFIED="1662715770907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_7_ObjectsAndClasses" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$compute_area__1_.coverage" NAME="compute_area (1) Coverage Results" MODIFIED="1661781015969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_2_Elementary_Programming" />
     <SUITE FILE_PATH="coverage/Python__A_Step_to_Step_guide_$display_pattern.coverage" NAME="display_pattern Coverage Results" MODIFIED="1661758009583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_1_Introduction_To_Python_Programming" />
   </component>
